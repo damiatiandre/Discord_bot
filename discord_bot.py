@@ -12,4 +12,4 @@ async def salve(ctx):
   await ctx.send(f'Salve, salve!  {ctx.author}')
 
 
-client.run('OTI5MDk0Njc2NTA0NTIyODQz.YdiU2A._2Au9BRyw6BjdkQf67NrZTJDOIU')
+client.run('TOKEN DO BOT')
